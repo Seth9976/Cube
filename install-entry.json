@@ -1,0 +1,48 @@
+{
+    "bundle": {
+        "id": "cube.2025_1_8_9170",
+        "type": "wwise",
+        "name": "",
+        "tag": "",
+        "description": "",
+        "vendor": "",
+        "version": {
+            "year": 2025,
+            "major": 1,
+            "minor": "8",
+            "build": 9170
+        },
+        "labels": [],
+        "links": [],
+        "productDependentData": {},
+        "documentation": [],
+        "image": "",
+        "redistributables": [],
+        "eulas": [],
+        "groups": [],
+        "files": []
+    },
+    "targetDir": "E:\\Cube_2025.1.8.9170",
+    "installType": "normal",
+    "installed": {
+        "groups": [
+            {
+                "id": "Packages",
+                "valueId": "Cube"
+            },
+            {
+                "id": "AuthoringOS",
+                "valueId": "Windows"
+            }
+        ],
+        "files": [
+            "Cube.Windows.tar.xz",
+            "Cube.Documentation.tar.xz"
+        ],
+        "date": 1783302066398
+    },
+    "children": [],
+    "unpackedFiles": [
+        "images\\cube.2025_1_8_9170.png"
+    ]
+}
